@@ -1,2 +1,2 @@
 # fine-tuning-llm
-Corise Course Fine Tuning LLM
+Fine Tuning LLM
